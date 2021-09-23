@@ -1,11 +1,11 @@
 # Fiducial Algorithm
 The repo stores the Fiducial Algorithm for ECG.
 
-Our goals is Using Fiducail feature to reproduce the while ECG data.  
+Our goals is Using Fiducial feature to reproduce the while ECG data.  
 
 Fiducal.py is a script to get the fiducial feature, which are some meanful info from ECG.  
 
-Other scripts are using the fiducail feature to reporduce the whole ECG data.  
+Other scripts are using the fiducial feature to reporduce the whole ECG data.  
 
 Fiducial points and original ECG data.  
 
